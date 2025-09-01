@@ -153,6 +153,14 @@
             <div class="url">spotify.com</div>
           </div>
         </a>
+        <!-- 추가: 깃허브 대시보드 -->
+        <a class="card" href="https://github.com/dashboard" target="_blank" rel="noopener noreferrer" tabindex="0">
+          <div class="iconbox">🐙</div>
+          <div class="meta">
+            <div class="title">GitHub 대시보드</div>
+            <div class="url">github.com/dashboard</div>
+          </div>
+        </a>
       </div>
     </main>
 
