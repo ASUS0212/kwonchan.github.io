@@ -93,7 +93,7 @@
 
     <main>
       <div id="grid" class="grid" aria-live="polite">
-        <a class="card" href="http://kwonchan.kro.kr/" target="_blank" rel="noopener noreferrer" tabindex="0">
+        <a class="card" href="http://wasdbnm.kro.kr/" target="_blank" rel="noopener noreferrer" tabindex="0">
           <div class="iconbox">🌐</div>
           <div class="meta">
             <div class="title">공유기 설정</div>
