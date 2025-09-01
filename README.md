@@ -97,7 +97,7 @@
           <div class="iconbox">🌐</div>
           <div class="meta">
             <div class="title">공유기 설정</div>
-            <div class="url">kwonchan.kro.kr</div>
+            <div class="url">wasdbnm.kro.kr</div>
           </div>
         </a>
         <a class="card" href="https://bumdaeng.com/" target="_blank" rel="noopener noreferrer" tabindex="0">
