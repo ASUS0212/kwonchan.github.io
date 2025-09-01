@@ -6,7 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>내 링크 허브</title>
   <meta name="description" content="내가 자주 쓰는 사이트로 바로 이동하는 링크 허브" />
-  <!-- 안정적인 favicon 사용 권장 -->
   <link rel="icon" type="image/png" href="/favicon.png">
   <style>
     :root{
@@ -45,7 +44,16 @@
 
     .grid{display:grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap:14px; margin-top:18px}
     .card{
-      border:1px solid #202a44; background:linear-gradient(180deg, #121a2b, #0f1524); border-radius:16px; padding:16px; display:flex; gap:12px; align-items:center; text-decoration:none; color:inherit; transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+      border:1px solid #202a44; 
+      background:linear-gradient(180deg, #121a2b, #0f1524); 
+      border-radius:16px; 
+      padding:16px; 
+      display:flex; 
+      gap:12px; 
+      align-items:center; 
+      text-decoration:none; 
+      color:inherit; 
+      transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
     }
     .card:hover{transform: translateY(-2px); box-shadow: 0 6px 24px rgba(0,0,0,.3); border-color:#2a3a63}
     .iconbox{width:40px;height:40px;border-radius:10px; display:grid; place-items:center; background:#0c1221; border:1px solid #243257; font-size:20px}
@@ -103,14 +111,14 @@
         <a class="card" href="https://swjb-h.goesw.kr/index.do" target="_blank" rel="noopener noreferrer" tabindex="0">
           <div class="iconbox">🏫</div>
           <div class="meta">
-            <div class="title">수원정보과학고</div>
+            <div class="title">수원중부고</div>
             <div class="url">swjb-h.goesw.kr</div>
           </div>
         </a>
         <a class="card" href="http://www.xn--s39aj90b0nb2xw6xh.kr/" target="_blank" rel="noopener noreferrer" tabindex="0">
           <div class="iconbox">🇰🇷</div>
           <div class="meta">
-            <div class="title">컴시간알리미</div>
+            <div class="title">한글도메인</div>
             <div class="url">xn--s39aj90b0nb2xw6xh.kr</div>
           </div>
         </a>
@@ -161,8 +169,6 @@
         }
       }
     });
-
-    // 접근성: 검색창에 포커스 시 aria-live 활성화 등 필요시 추가 가능
   </script>
 </body>
 </html>
