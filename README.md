@@ -1,5 +1,4 @@
 # kwonchan.github.io
-<!doctype html>
 <html lang="ko">
 <head>
   <meta charset="utf-8" />
@@ -97,36 +96,68 @@
         <a class="card" href="http://kwonchan.kro.kr/" target="_blank" rel="noopener noreferrer" tabindex="0">
           <div class="iconbox">🌐</div>
           <div class="meta">
-            <div class="title">Kwonchan</div>
+            <div class="title">공유기 설정</div>
             <div class="url">kwonchan.kro.kr</div>
           </div>
         </a>
         <a class="card" href="https://bumdaeng.com/" target="_blank" rel="noopener noreferrer" tabindex="0">
           <div class="iconbox">🐾</div>
           <div class="meta">
-            <div class="title">Bumdaeng</div>
+            <div class="title">Bumdaeng Nas</div>
             <div class="url">bumdaeng.com</div>
           </div>
         </a>
         <a class="card" href="https://swjb-h.goesw.kr/index.do" target="_blank" rel="noopener noreferrer" tabindex="0">
           <div class="iconbox">🏫</div>
           <div class="meta">
-            <div class="title">수원중부고</div>
+            <div class="title">수원정보과학고</div>
             <div class="url">swjb-h.goesw.kr</div>
           </div>
         </a>
         <a class="card" href="http://www.xn--s39aj90b0nb2xw6xh.kr/" target="_blank" rel="noopener noreferrer" tabindex="0">
           <div class="iconbox">🇰🇷</div>
           <div class="meta">
-            <div class="title">한글도메인</div>
+            <div class="title">컴시간알리미</div>
             <div class="url">xn--s39aj90b0nb2xw6xh.kr</div>
+          </div>
+        </a>
+        <!-- 추가: 유튜브 -->
+        <a class="card" href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" tabindex="0">
+          <div class="iconbox">▶️</div>
+          <div class="meta">
+            <div class="title">유튜브</div>
+            <div class="url">youtube.com</div>
+          </div>
+        </a>
+        <!-- 추가: 유튜브 뮤직 -->
+        <a class="card" href="https://music.youtube.com/" target="_blank" rel="noopener noreferrer" tabindex="0">
+          <div class="iconbox">🎵</div>
+          <div class="meta">
+            <div class="title">유튜브 뮤직</div>
+            <div class="url">music.youtube.com</div>
+          </div>
+        </a>
+        <!-- 추가: 사운드클라우드 -->
+        <a class="card" href="https://soundcloud.com/" target="_blank" rel="noopener noreferrer" tabindex="0">
+          <div class="iconbox">☁️</div>
+          <div class="meta">
+            <div class="title">사운드클라우드</div>
+            <div class="url">soundcloud.com</div>
+          </div>
+        </a>
+        <!-- 추가: 스포티파이 -->
+        <a class="card" href="https://spotify.com/" target="_blank" rel="noopener noreferrer" tabindex="0">
+          <div class="iconbox">🟢</div>
+          <div class="meta">
+            <div class="title">스포티파이</div>
+            <div class="url">spotify.com</div>
           </div>
         </a>
       </div>
     </main>
 
     <footer>
-      <p>© <span id="year"></span> 내 링크 허브 — 안전하게 새 창으로 열림(<code>target="_blank"</code>, <code>rel="noopener"</code> 적용)</p>
+      <p>© <span id="year"></span> 내 링크 허브 — 안전하게 새 창으로 열림</p>
     </footer>
   </div>
 
